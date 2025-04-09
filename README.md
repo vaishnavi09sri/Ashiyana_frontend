@@ -4,6 +4,7 @@ Glitchcon
 📌 Features ✅ AI Web Crawler – Extracts 2 BHK listings from multiple real estate websites. ✅ Smart Comparison Engine – Compares properties based on price per sq. ft., amenities, and location. ✅ AI-Based Deal Scoring – Assigns a score (1-10) based on value-for-money. ✅ Personalized Recommendations – Suggests properties based on user preferences. ✅ Real-Time Data Updates – Continuously fetches and updates listings in MongoDB.
 
 🛠️ Tech Stack 🔹 Backend: Python, FastAPI, MongoDB 🔹 Frontend: React.js, Tailwind CSS 🔹 AI/ML: Scrapy (Web Crawling), CatBoost (ML Model),
-OpenAI API ashiyana.pptx
+OpenAI API [Uploading ashiyana.pptx…]()
+
 
 drive link for the video: https://drive.google.com/drive/folders/1DSEoE4h4Jgpo5QwXoHdbZJz_IeyJuVHT?usp=drive_link
